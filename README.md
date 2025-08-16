@@ -1,5 +1,27 @@
 # 🖥️ Angel's Homelab
 
+## System Info (Fastfetch)
+
+```ansi
+                             ....             Ubuntu Server
+              .',:clooo:  .:looooo:.           -------------
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 24.04.3 LTS x86_64
+        .;looooool:,''.  :ooooooooooc          Host: HP ENVY x360 m6 Convertible
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.8.0-71-generic
+         ...                ......  .:oo,      Packages: 852 (dpkg)
+  .;clol:,.                        .loooo'     Shell: bash 5.2.21
+ :ooooooooo,                        'ooool     Terminal: /dev/pts/1
+'ooooooooooo.                        loooo.    CPU: Intel(R) Core(TM) i7-6500U (4) @ 3.10 GHz
+'ooooooooool                         coooo.    GPU 1: NVIDIA GeForce 930M [Discrete]
+ ,loooooooc.                        .loooo.    GPU 2: Intel HD Graphics 520 @ 1.05 GHz [Integrated]
+   .,;;;'.                          ;ooooc     Memory: 595.09 MiB / 7.68 GiB (8%)
+       ...                         ,ooool.     Swap: 0 B / 4.00 GiB (0%)
+    .cooooc.              ..',,'.  .cooo.      Disk (/): 11.06 GiB / 914.78 GiB (1%) - ext4
+       .coooooc,..      coooooooooo.           Locale: en_US.UTF-8
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'
+
 ---
 
 ## 🔐 How I Setup WireGuard VPN
