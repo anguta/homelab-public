@@ -21,7 +21,7 @@
          .:ooooooolc:. .ooooooooooo'
            .':loooooo;  ,oooooooooc
                ..';::c'  .;loooo:'
-
+```
 ---
 
 ## 🔐 How I Setup WireGuard VPN
