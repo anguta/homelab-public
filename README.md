@@ -17,7 +17,7 @@
    .,;;;'.                          ;ooooc     Memory: 595.09 MiB / 7.68 GiB (8%)
        ...                         ,ooool.     Swap: 0 B / 4.00 GiB (0%)
     .cooooc.              ..',,'.  .cooo.      Disk (/): 11.06 GiB / 914.78 GiB (1%) - ext4
-       .coooooc,..      coooooooooo.           Locale: en_US.UTF-8
+       .coooooc,..      coooooooooo.           
          .:ooooooolc:. .ooooooooooo'
            .':loooooo;  ,oooooooooc
                ..';::c'  .;loooo:'
