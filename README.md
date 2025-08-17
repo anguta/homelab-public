@@ -1,5 +1,8 @@
 # 🖥️ Angel's Homelab
 
+## 💡 Why I Started This
+I started this homelab because I wanted to **learn by doing**. 
+
 ## System Info (Fastfetch)
 
 ```ansi
