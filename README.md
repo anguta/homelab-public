@@ -24,7 +24,7 @@
 ```
 ---
 
-## 🔐 How I Setup WireGuard VPN
+## 🔐 How I Setup WireGuard
 
 Using **PiVPN** and **FreeDNS**.
 
