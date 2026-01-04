@@ -27,7 +27,7 @@ I started this homelab because I wanted to **learn by doing**.
 ```
 ---
 
-## 🔐 How I Setup WireGuard
+## How I Setup WireGuard
 
 Using **PiVPN** and **FreeDNS**.
 
@@ -65,7 +65,7 @@ Before any of this could work, I needed to configure my **router**:
      ```  
      (Scanned into the WireGuard mobile app.)
 
-5. ✅ Now I can connect into my system from anywhere securely.
+5. Now I can connect into my system from anywhere securely.
 
 ### What I Learned:
 - How to configure and deploy a VPN for secure access.  
